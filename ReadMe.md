@@ -13,5 +13,5 @@ I'm a Master's student at TU Delft with a background in Business Engineering fro
 - **Visualization & Reporting:** Plotly, Bokeh, Matplotlib, Folium, LaTeX, Excel
 
 ### How to Reach Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/ivaylo-iliev-1540ab2a0/)
+- **LinkedIn:** [linkedin.com/in/ivaylo-iliev](https://www.linkedin.com/in/ivaylo-iliev/)
 - **Email:** ivo_iliev_31@abv.bg
