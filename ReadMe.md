@@ -1,4 +1,4 @@
-### Hi, I'm Ivaylo Iliev 👋
+### Hi, I'm Ivo 👋
 
 I'm a Master's student at TU Delft with a background in Business Engineering from KU Leuven. I work with data analysis, mathematical optimization, simulation modeling, and machine learning to solve complex operational and decision-making problems across different industries—including transport, logistics, and finance.
 
