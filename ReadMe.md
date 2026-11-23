@@ -4,8 +4,8 @@ I'm an almost finished Master's student at TU Delft with a background in Busines
 
 ### What I'm Currently Working On
 - **Finalizing my Master's thesis:** Building a Python and optimization pipeline to generate and evaluate traffic scenarios for autonomous navigation testing.
-- **Organizing my project archive:** Cleaning up and documenting data science, optimization, simulation, and machine learning projects from my studies and internships and uploading them in GitHub.
-- **(Not yet)Building a portfolio website:** Creating a visual, easy-to-navigate website showcasing these projects for non-technical readers and recruiters.
+- **Organizing my project archive:** Documenting and publishing selected academic and research projects in data science, mathematical optimization, simulation, and machine learning.
+- **Building a portfolio website:** Planning a visual, easy-to-navigate website showcasing these projects to both technical and non-technical audiences.
 
 ### Tools I Use
 - **Programming & Data:** Python (`pandas`, `numpy`, `scipy`, `scikit-learn`), R, SQL
